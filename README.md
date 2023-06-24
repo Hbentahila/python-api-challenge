@@ -76,3 +76,4 @@ Add the hotel name and the country as additional information in the hover messag
  - Results printed successfully on Jupyter Notebook
  - All outputs (csv and plots) are in the folder "output_data"
  - All requirements completed
+ - Map plots can't be displayed on Github. Please download the Jupyter Notebbok and run it to visualize both maps
